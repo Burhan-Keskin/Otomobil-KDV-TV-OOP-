@@ -1,0 +1,10 @@
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\bin\Debug\OOPArabaÖTVKDV.exe.config
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\bin\Debug\OOPArabaÖTVKDV.exe
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\bin\Debug\OOPArabaÖTVKDV.pdb
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.csprojAssemblyReference.cache
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.Form1.resources
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.Properties.Resources.resources
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.csproj.GenerateResource.cache
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.csproj.CoreCompileInputs.cache
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.exe
+E:\C# dersleri\OOPArabaÖTVKDV\OOPArabaÖTVKDV\obj\Debug\OOPArabaÖTVKDV.pdb
